@@ -1,5 +1,5 @@
-# Wazuh Webhook Intelligent Logger
-**Deployment + alerting + webhook receiver + optional LLM interpretation (generated 2026-01-02)**
+# Wazuh Webhook Intelligent Logger V1
+**Deployment + alerting + webhook receiver + optional LLM interpretation V1**
 
 This guide shows how to:
 * Ingest pfSense/OPNsense firewall logs into Wazuh (archives/alerts indices).
